@@ -1,18 +1,19 @@
-name=input("Hello:")
+name=input("Enter Your Name:")
 
 print("Hello", name )
 
 #hello darling
 
-age=input("your age:")    
+age=int(input("your age:"))    
 print("you are", age, "years old")
 
-#are u under 18?? ;-;
+#enter your age
 
 food=input("Your Favorite Food:")
-print("Your favorite food is", food )  
+print("I love", food )  
 
-#woow i love that food !
+#thats yummy
+
 text=input("please enter random text: ")
 print("######################")
 print("#####", text, "#########")
