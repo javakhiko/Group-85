@@ -1,4 +1,5 @@
-# lets create database and print everything
+# დაწერეთ კოდი, სადაც მომხმარებელს მოთხოვთ ინფორმაციას მათ შესახებ: სახელი, გვარი,
+#  ასაკი, შემდეგ ეს ინფორმაცია გამოიტანეთ როგორც რამე დოკუმენტი, მაგალითად პასპორტი (თითქოს მთავრობის პროგრამაა)
 
 name=input("Enter Your Name:")
 surname=input("Enter Your Surname:")
