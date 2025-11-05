@@ -4,6 +4,8 @@
 number=int(input("Enter Your Age:"))
 if number>0:
     print("Number Is Positive")
+elif number==0:
+    print("Number Equals To Zero")
 else:
     print("Number Is Negative")
 
